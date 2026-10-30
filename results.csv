@@ -1,0 +1,10 @@
+seed,policy,delivered,knockouts,invalid,fallbacks
+11,baseline,148,8,0,0
+12,baseline,148,8,0,0
+13,baseline,146,6,0,0
+11,model,148,0,0,0
+12,model,140,0,0,0
+13,model,144,0,0,0
+11,llm,148,0,39,39
+12,llm,140,0,34,34
+13,llm,144,0,30,30
